@@ -1,0 +1,9 @@
+[submodule "ucesrli/www/js"]
+	path = ucesrli/www/js
+	url = https://github.com/RunzeL2883/cege0043-jsReference
+[submodule "ucesrli/www/css"]
+	path = ucesrli/www/css
+	url = https://github.com/RunzeL2883/cege0043-cssReference
+[submodule "ucesrli/www/images"]
+	path = ucesrli/www/images
+	url = https://github.com/RunzeL2883/cege0043-imagesReference
